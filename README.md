@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on improving my programming skills  
 - 🌱 I’m currently learning Python  
-- ⚙️ I create custom Minecraft server setups and configurations|
+- ⚙️ I create custom Minecraft server setups and configurations
 - 🧩 I have experience working as a developer and owner on multiple Minecraft servers
 <!--
 **szatekkk/szatekkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
