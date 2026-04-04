@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on improving my programming skills  
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently learning Java  
 - ⚙️ I create custom Minecraft server setups and configurations
 - 🧩 I have experience working as a developer and owner on multiple Minecraft servers
 <!--
